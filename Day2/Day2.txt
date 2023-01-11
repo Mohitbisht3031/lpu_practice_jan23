@@ -1,0 +1,19 @@
+1.**********
+**********
+**********
+**********
+
+2. 
+*
+**
+***
+****
+*****
+
+3.Index of First occurance of a number in ans arr.
+
+4. Index of first and last occurance of a nm in arr.
+
+5. Add all the numbers in an arr except x.
+
+6. https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/ (HW)
