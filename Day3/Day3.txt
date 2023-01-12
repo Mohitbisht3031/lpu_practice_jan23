@@ -1,0 +1,3 @@
+1. https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+2. https://leetcode.com/problems/remove-duplicates-from-sorted-array/ (HW)
+3. https://leetcode.com/problems/degree-of-an-array/
