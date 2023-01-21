@@ -1,0 +1,3 @@
+https://leetcode.com/problems/consecutive-characters/
+https://leetcode.com/problems/shuffle-the-array/
+https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/description/
