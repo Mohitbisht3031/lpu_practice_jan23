@@ -1,0 +1,4 @@
+https://leetcode.com/problems/alternating-digit-sum/
+https://leetcode.com/problems/count-pairs-of-similar-strings/submissions/884324921/
+https://leetcode.com/problems/apply-operations-to-an-array/
+https://leetcode.com/problems/search-insert-position/ (hw)
