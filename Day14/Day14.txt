@@ -1,0 +1,3 @@
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+Maximum number of 1 in a sorted matrix (next class)
+https://leetcode.com/problems/string-matching-in-an-array/
