@@ -1,0 +1,6 @@
+Maximum number of 1 in a sorted matrix
+
+digit sum using recursion
+check string is palindrome or not using recursion
+find max in array using recursion
+remove adjacent same characters in a string using recursion
