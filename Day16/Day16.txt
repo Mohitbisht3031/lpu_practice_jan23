@@ -1,0 +1,4 @@
+Find length of LL
+Insert an element at kth position in LL
+delete an element at kth position in LL
+reverse a LL
