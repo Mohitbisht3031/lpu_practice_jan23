@@ -1,0 +1,5 @@
+merge 2 sorted LL
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+For agivent string check there is a reduendent bracket or not
+https://leetcode.com/problems/next-greater-element-i/
+https://leetcode.com/problems/intersection-of-two-linked-lists/
