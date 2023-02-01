@@ -1,0 +1,4 @@
+HW question
+Stock spanning
+https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
+Given an array arr, an integer K, print all subset of arr, which sum to K. (HW)
